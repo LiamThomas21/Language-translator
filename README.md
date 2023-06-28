@@ -6,4 +6,4 @@
 - You can Convert text to Speech if you wish to do so.
 - MyMemory API is used to convert the text to the selected Language.
 
-![alt text](http://url/to/img.png)
+![Example Image](https://github.com/LiamThomas21/Language-translator/blob/main/Example.jpg)
